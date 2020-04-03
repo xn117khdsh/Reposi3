@@ -1,0 +1,21 @@
+<package>
+    <id>com.appvn7mod</id>
+    <name>Appvn for iOS 7+</name>
+    <version>5.2.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>10.0</maxiOS>
+            <otherVersions>unconfirmed</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>This is Appvn (Vietnamese App Store) modded for iOS 7+. This package don't require you to install AppSync from Cydia.vn Repo. However, you need to disable "Automatic Install" on Appvn's Settings tab.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+    <links></links>
+</package>
