@@ -1,0 +1,21 @@
+<package>
+    <id>anondev.LocalIAPStore</id>
+    <name>LocalIAPStore</name>
+    <version>1.4-2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.1.1</miniOS>
+            <maxiOS>10.2</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>firmware (>= 5.1.1), mobilesubstrate, preferenceloader</dependencies>
+    <descriptionlist>
+        <description>Pwns In-app purchases on iOS 5.1.1 - 10.2 (works with developer servers, in-appstore.com DNS needed). 64bit compatible.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
