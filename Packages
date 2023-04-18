@@ -1,28 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: eu.xn117khdsh.ifile
+Version: 1.6.1-1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: xn117khdsh
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: ./debs/eu.xn117khdsh.ifile_1.6.1_1_iphoneos_arm.deb
+Size: 2290194
+MD5sum: 1de5ffc93ad8ff3f050512f49410a8e2
+SHA1: 42b8eba72c8a67a075ac4943539705397d44a261
+SHA256: 8b3b9cd9977d6706ded2245e5975f8d0354edfc832c3c97278cf86e520b8a3b4
+Homepage: https://xn117khdsh.github.io/repo
+Description: Old iFile for iOS 6 and lower.
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
+Name: iFile Cracked
 
