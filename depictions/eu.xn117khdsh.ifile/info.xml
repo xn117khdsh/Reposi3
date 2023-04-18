@@ -1,17 +1,17 @@
 <package>
-    <id>eu.heinelt.ifile</id>
-    <name>iFile Cracked (iOS 3-6)</name>
+    <id>eu.xn117khdsh.ifile</id>
+    <name>iFile Cracked</name>
     <version>1.6.1-1</version>
     <compatibility>
         <firmware>
             <miniOS>3.0</miniOS>
-            <maxiOS>6.1.6</maxiOS>
+            <maxiOS>7.0</maxiOS>
             <otherVersions>unsupported</otherVersions>
         </firmware>
     </compatibility>
     <dependencies>file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds</dependencies>
     <descriptionlist>
-        <description>iFile is a file manager runnning under user root.</description>
+        <description>Old iFile for iOS 6 and lower. Lighter and faster. Cracked by Fabius.</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
