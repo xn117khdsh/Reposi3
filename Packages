@@ -1,3 +1,74 @@
+Package: anondev.LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/localiapstore_1.4-2.deb
+Size: 68322
+MD5sum: 356dcb97281d92c141ade7bf935e3be6
+SHA1: 030d81faf2ddc65b043320d0ec8e2b05ec29e2ba
+SHA256: 310c7283197f46c5fa124c6094431f3f9aa47472e2c5a2ce6da00b9332e258eb
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 10.2. This is the older but more stable version for older iDevices.
+Author: anondev
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=anondev.LocalIAPStore
+Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
+Name: LocalIAPStore Legacy
+
+Package: com.chpwn.weeloader
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate
+Filename: ./debs/weeloader_1.2-1.deb
+Size: 3726
+MD5sum: 3bc04d2eb4542ceeedbc97717264b85f
+SHA1: a34bc4df148ecdec57f8c6d8ebba05f29cffacb2
+SHA256: 0832aadb9d3cf8e07c010f313fa81c25c3f0006f045d297610323d373017d673
+Section: Development
+Homepage: https://xn117khdsh.github.io/repo
+Description: Old WeeLoader for NCSettings on iOS 6.
+Author: chpwn <support@chpwn.com>
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.chpwn.weeloader
+Name: WeeLoader
+
+Package: com.linusyang.appsyncnew
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 104
+Depends: mobilesubstrate
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Provides: appsync
+Filename: ./debs/appsyncnew_1.4.deb
+Size: 6436
+MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
+SHA1: 8249caf96d7551e09c0e152c86e2489c5fb87c2b
+SHA256: 019cf92994a10bb5dfda4b4c97d63c105ae67d0e4befe15f0d035d3c40505d6f
+Section: Tweaks
+Description: bypass signature check of installd
+Author: Linus Yang
+Name: AppSync New
+
+Package: com.xn117khdsh.p1neapple.zephyr
+Version: 1.6.4-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Filename: ./debs/zephyr_1.6.4-1.deb
+Size: 44508
+MD5sum: 0a83a642b948cb85f120acc2df1569ee
+SHA1: a05ac2503ffab3d63c697e65dee6c03ff488ed3b
+SHA256: 75c74f41c8d889ae87c684a1e1c01b39670773389453fb31010e6facca838bdc
+Section: Tweaks
+Description: Awesome swipe multitasking and gestures!
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
+Name: Zephyr Cracked (iOS 5-6)
+
 Package: eu.xn117khdsh.ifile
 Version: 1.6.1-1
 Architecture: iphoneos-arm
@@ -14,4 +85,22 @@ Description: A File Manager and Viewer.
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
 Name: iFile Cracked (Legacy)
+
+Package: org.xn117khdsh.auxo
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/auxo_1.4-2.deb
+Size: 1954518
+MD5sum: 0fc1c8f29e2532bcefe876666f4a09f7
+SHA1: df0cdcbb660e8cc6deab5107e92a573542fa27f7
+SHA256: ea564a9c2b8b21bb362c7c24f727e225071c97120ea4df8e35896f4e187df6d3
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: A fantastic re-imagined multitasking bar!
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo Cracked (iOS 5-6)
 
