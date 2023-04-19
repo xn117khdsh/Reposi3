@@ -1,0 +1,21 @@
+<package>
+    <id>com.linusyang.appsyncnew</id>
+    <name>AppSync New</name>
+    <version>1.4</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>12.5.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <descriptionlist>
+        <description>bypass signature check of installd</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
