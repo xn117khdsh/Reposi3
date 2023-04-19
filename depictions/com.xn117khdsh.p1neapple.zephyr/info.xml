@@ -1,17 +1,17 @@
 <package>
-    <id>com.linusyang.appsyncnew</id>
-    <name>AppSync New</name>
+    <id>com.xn117khdsh.p1neapple.zephyr</id>
+    <name>Zephyr Cracked (iOS 5-6)</name>
     <version>1.4</version>
     <compatibility>
         <firmware>
-            <miniOS>6.0</miniOS>
-            <maxiOS>12.5.6</maxiOS>
+            <miniOS>5.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
             <otherVersions>unsupported</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies>mobilesubstrate</dependencies>
+    <dependencies>mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter</dependencies>
     <descriptionlist>
-        <description>bypass signature check of installd</description>
+        <description>Awesome swipe multitasking and gestures!</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
