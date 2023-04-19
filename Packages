@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
 Filename: ./debs/ifile_1.6.1_1.deb
-Size: 2290754
-MD5sum: 660c5a22d4da9b9ecb3b3f515a8327c3
-SHA1: e7972395458fe0b3df52378ca03eb102c8580c31
-SHA256: d851dfe5d1552fcea003a0bbf339d40a17dbfa03f72216c5ee2b6e4696e28cfd
+Size: 3418326
+MD5sum: 26ec3936aea7d555dd83b9f10eb9a76c
+SHA1: e4b31ed875cd7bb4ef0ce2bbf0b3daed71b43d88
+SHA256: dc94ca4c4eaf9972abf0201b2872e31796bb36ae664bf2417f0f857eb6ffcbe5
 Section: System
 Homepage: https://xn117khdsh.github.io/repo
 Description: A File Manager and Viewer.
