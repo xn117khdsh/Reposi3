@@ -1,128 +1,17 @@
-Package: anondev.LocalIAPStore
-Version: 1.4-2
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./debs/anondev.localiapstore_1.4-2_iphoneos-arm_github.deb
-Size: 39802
-MD5sum: d4923ee90ce6cf9ca0290486e4a1e333
-SHA1: 82614c209835cf8a688b53663a6259f3d2404138
-SHA256: f304d156c03b95edecaed2756d29f7907fbb9634e20ad54b08595ae106c5a441
-Section: Tweaks
-Priority: optional
-Description: Pwns In-app purchases on iOS 5.1.1 - 10.2 (works with developer servers,in-appstore.com DNS needed). 64bit compatible
-Author: anondev
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=anondev.LocalIAPStore
-Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
-Name: LocalIAPStore
-
-Package: com.linusyang.appsyncnew
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: Linus Yang
-Installed-Size: 104
-Depends: mobilesubstrate
-Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
-Provides: appsync
-Filename: ./debs/com.linusyang.appsyncnew_1.4.deb
-Size: 6436
-MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
-SHA1: 8249caf96d7551e09c0e152c86e2489c5fb87c2b
-SHA256: 019cf92994a10bb5dfda4b4c97d63c105ae67d0e4befe15f0d035d3c40505d6f
-Section: Tweaks
-Description: bypass signature check of installd
-Author: Linus Yang
-Name: AppSync New
-
-Package: com.xn117khdsh.icleanerpro
-Version: 7.6.4
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Pre-Depends: apt, findutils, shell-cmds
-Depends: firmware (>= 4.0)
-Filename: ./debs/com.xn117khdsh.icleanerpro_7.6.4_iphoneos-arm.deb
-Size: 3125682
-MD5sum: 5334a5570ad1ec2168e27700427bb1ca
-SHA1: e371e7e7622c1b24fafb08509e0b400d0a222ad5
-SHA256: 8a5efcc36ef9a9f43672f224cd9c601719f900bc2b7dee056fdb6e4c61a575ee
-Section: Utilities
-Homepage: https://xn117khdsh.github.io/repo
-Description: The first real iOS system cleaner & optimizer
-Author: xn117khdsh
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro Patched
-
-Package: com.xn117khdsh.p1neapple.zephyr
-Version: 1.6.4-1
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
-Filename: ./debs/zephyr_1.6.4-1_iphoneos-arm_github.deb
-Size: 37620
-MD5sum: fa25d4a45828db2f782b58ef78b1bf25
-SHA1: d95b1c953961445ace9ecc9901acd1c8a46be9f4
-SHA256: 8d2f4a3cdb2ca2571ef1454caca90bf7a38aebf512c0f4587154c12f01f6e470
-Section: Tweaks
-Homepage: https://xn117khdsh.github.io/repo
-Description: Awesome swipe multitasking and gestures!
-Author: xn117khdsh
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
-Name: Zephyr
-
 Package: eu.xn117khdsh.ifile
 Version: 1.6.1-1
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
-Filename: ./debs/eu.xn117khdsh.ifile_1.6.1_1_iphoneos_arm.deb
-Size: 2290904
-MD5sum: eec6d9ac09ee72bede8e0734e03369be
-SHA1: 7f4b7ee0e5391553fe62910f4c9cfb16330c90c7
-SHA256: 357cf6469f64b0abe3c27d9225013cbae618168094490be322dca38f031a7db9
+Filename: ./debs/ifile_1.6.1_1.deb
+Size: 2290754
+MD5sum: 660c5a22d4da9b9ecb3b3f515a8327c3
+SHA1: e7972395458fe0b3df52378ca03eb102c8580c31
+SHA256: d851dfe5d1552fcea003a0bbf339d40a17dbfa03f72216c5ee2b6e4696e28cfd
 Section: System
 Homepage: https://xn117khdsh.github.io/repo
 Description: A File Manager and Viewer.
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
-Name: iFile Cracked
-
-Package: org.xn117khdsh.auxo
-Version: 1.4-2
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
-Filename: ./debs/org.xn117khdsh.auxo_1.4-2_iphoneos-arm.deb
-Size: 1822970
-MD5sum: 761a81c6dfaa420d78be57316d4e92e3
-SHA1: 4fe3e68c989c23bf1f1885629d1916481775b131
-SHA256: 6ad3f23a3b18b788f0b233e18ec107c4f93490ddf159e4ba9cd0eff23eb63544
-Section: Tweaks
-Homepage: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo
-Description: A fantastic re-imagined multitasking bar! Cracked by julioverne.
-Author: xn117khdsh
-Depiction: https://xn117khdsh.github.io/repo
-Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
-Name: Auxo Cracked (iOS 5-6)
-
-Package: vn.xn117khdsh.totpatch
-Version: 1.0
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: xn117khdsh
-Depends: coreutils, com.ericasadun.utilities
-Filename: ./debs/vn.xn117khdsh.totpatch_1.0_iphoneos-arm.deb
-Size: 1264
-MD5sum: a2444d83f4ac707bfe4e711201bb1d96
-SHA1: d57e57a3d5160961b416af7b36481715084aa947
-SHA256: 8e6d74eeafee44907ae09cb98c2e3057adc956815e4b90edd0a8cd6f3e5c371e
-Section: Tweaks
-Priority: Standard
-Homepage: https://username.github.io/repo/
-Description: Unlimited coins and cash patch for The Oregon Trail (v1.9.8 only).
-Author: xn117khdsh
-Depiction: https://username.github.io/repo/depictions/?p=vn.xn117khdsh.totpatch
-Name: The Oregon Trail 1.9.8 Patch
-Sponsor: xn117khdsh
+Name: iFile Cracked (Legacy)
 
