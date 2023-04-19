@@ -77,15 +77,15 @@ Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
 Filename: ./debs/eu.xn117khdsh.ifile_1.6.1_1_iphoneos_arm.deb
-Size: 2290204
-MD5sum: 24dc172b21f95866eecfe9b501963b67
-SHA1: 62c24ab42a89b37160a31e49d67a88eead4c7568
-SHA256: a4e504c840ec3ac47749a0d19da039c11cd4f16b7f94cae4c301dd5d989740a0
+Size: 10238372
+MD5sum: 2b2280fada4f9a1fd3800a167de81cab
+SHA1: 37361fd31517f16f209515c8b0ee6418beb53dc9
+SHA256: 3a30a52bde60960d5cc14397d34f1eab32827ab33fe4d1129002311d5dcc0079
 Section: System
-Homepage: https://xn117khdsh.github.io/repo
-Description: Old iFile for iOS 6 and lower.
+Homepage: https://username.github.io/repo
+Description: A File Manager and Viewer.
 Author: xn117khdsh
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
+Depiction: https://username.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
 Name: iFile Cracked
 
 Package: org.xn117khdsh.auxo
