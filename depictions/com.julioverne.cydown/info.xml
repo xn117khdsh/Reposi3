@@ -1,0 +1,21 @@
+<package>
+    <id>com.julioverne.cydown</id>
+    <name>CyDown Legacy</name>
+    <version>6.9.8</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>8.3</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds</dependencies>
+    <descriptionlist>
+        <description>Cydia Download Manager & Extra Features! Initial version of CyDown by julioverne.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial version.</change>
+    </changelog>
+    <links></links>
+</package>
