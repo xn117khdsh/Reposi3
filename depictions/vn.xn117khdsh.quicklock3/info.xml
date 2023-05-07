@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.quicklock3</id>
+    <name>QuickLock 3 (iOS 6)</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Lock Screen quickly from SpringBoard by clicking on an icon.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Initial version.</change>
+    </changelog>
+    <links></links>
+</package>
