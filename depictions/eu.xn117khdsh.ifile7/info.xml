@@ -1,0 +1,21 @@
+<package>
+    <id>eu.xn117khdsh.ifile7</id>
+    <name>iFile Cracked (iOS 7)</name>
+    <version>1.8.1-1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>3.0</miniOS>
+            <maxiOS>7.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds</dependencies>
+    <descriptionlist>
+        <description>Old iFile for a lighter and faster experience. Compatible for iOS 7. Cracked by Fabius.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>This is the last offline cracked version. Starting from version 1.9.1-1, you need to be connected via WiFi or 3G while installing this for your license to be downloaded (can't be downloaded anymore).</change>
+    </changelog>
+    <links></links>
+</package>
