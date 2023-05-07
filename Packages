@@ -1,0 +1,180 @@
+Package: anondev.LocalIAPStore
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/localiapstore_1.4-2.deb
+Size: 68322
+MD5sum: 356dcb97281d92c141ade7bf935e3be6
+SHA1: 030d81faf2ddc65b043320d0ec8e2b05ec29e2ba
+SHA256: 310c7283197f46c5fa124c6094431f3f9aa47472e2c5a2ce6da00b9332e258eb
+Section: Tweaks
+Priority: optional
+Description: Pwns In-app purchases on iOS 5.1.1 - 10.2. This is the older but more stable version for older iDevices.
+Author: anondev
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=anondev.LocalIAPStore
+Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
+Name: LocalIAPStore Legacy
+
+Package: com.chpwn.weeloader
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate
+Filename: ./debs/weeloader_1.2-1.deb
+Size: 3710
+MD5sum: 92ecbfca4630816abcc96447c34003e7
+SHA1: 1d58f0a9ff68f1521eb9df0af05ed82fd2580d22
+SHA256: 42ffe569fea3c2e6c109fb0834f3e096aac6d750bb056d53ce52f4205bbe6378
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: Old WeeLoader for NCSettings on iOS 6.
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.chpwn.weeloader
+Name: WeeLoader for NCSettings
+
+Package: com.julioverne.cydown
+Version: 6.9.8
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/cydown_6.9.8.deb
+Size: 1539994
+MD5sum: 185aed8efbc6bdd54ac955657e37b662
+SHA1: 4bde2b5de1ebfc8f50246b8cd095f5e92be0b00e
+SHA256: 9a79607ca80874dd7c48a73d3f6b6ec0f681e7ba883f74cbe87d6c82dcd8edd8
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.julioverne.cydown
+Name: CyDown
+
+Package: com.linusyang.appsyncnew
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 104
+Depends: mobilesubstrate
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Provides: appsync
+Filename: ./debs/appsyncnew_1.4.deb
+Size: 6436
+MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
+SHA1: 8249caf96d7551e09c0e152c86e2489c5fb87c2b
+SHA256: 019cf92994a10bb5dfda4b4c97d63c105ae67d0e4befe15f0d035d3c40505d6f
+Section: Tweaks
+Description: bypass signature check of installd
+Author: Linus Yang
+Name: AppSync New
+
+Package: com.unthreadedjb.unthredera1n
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 2.1) | cy+model.ipod (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipad (= 1.1), firmware (= 4.3.4) | firmware (= 4.3.5) |  firmware (= 5.0) | firmware (= 5.1)
+Conflicts: repo.weiphone.unthredera1n
+Replaces: com.unthreadedjb.unthredera1n
+Filename: ./debs/unthredera1n_1.0.deb
+Size: 155336
+MD5sum: 00071c9acecc1ced69eb1df7c9a14a22
+SHA1: 51c0f32a55b90a787480fe6d88becf889d2b2ca3
+SHA256: 0a0e82edaa3242659bff7cf62bd49677154fc3f2aa8f8b378a3895c649ef597e
+Section: System
+Homepage: https://xn117khdsh.github.io/repo/
+Description: iOS 4.3.4 - 5.1 Untethered Jailbreak by @UnthreadedJB for iPhone 3GS / iPhone 4(GSM/CDMA) / iPod Touch(3G/4G) / iPad 1
+Author: UnthreadedJB
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.unthreadedjb.unthredera1n
+Name: Unthredera1n
+
+Package: com.xn117khdsh.p1neapple.zephyr
+Version: 1.6.4-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: firmware (>= 5.0)
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.layersnapshotter
+Filename: ./debs/zephyr_1.6.4-1.deb
+Size: 44508
+MD5sum: 0a83a642b948cb85f120acc2df1569ee
+SHA1: a05ac2503ffab3d63c697e65dee6c03ff488ed3b
+SHA256: 75c74f41c8d889ae87c684a1e1c01b39670773389453fb31010e6facca838bdc
+Section: Tweaks
+Description: Awesome swipe multitasking and gestures!
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
+Name: Zephyr Cracked (iOS 5-6)
+
+Package: eu.xn117khdsh.ifile
+Version: 1.6.1-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: ./debs/ifile_1.6.1_1.deb
+Size: 3418326
+MD5sum: 26ec3936aea7d555dd83b9f10eb9a76c
+SHA1: e4b31ed875cd7bb4ef0ce2bbf0b3daed71b43d88
+SHA256: dc94ca4c4eaf9972abf0201b2872e31796bb36ae664bf2417f0f857eb6ffcbe5
+Section: System
+Homepage: https://xn117khdsh.github.io/repo
+Description: A File Manager and Viewer.
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile
+Name: iFile Cracked (Legacy)
+
+Package: eu.xn117khdsh.ifile7
+Version: 1.8.1-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Installed-Size: 14664
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Conflicts: vn.gsm.ifile, com.heaveniphone.ifile, eu.heinelt.ifile, eu.xn117khdsh.ifile, us.hackphone.ifile
+Filename: ./debs/ifile_1.8.1-1.deb
+Size: 7156086
+MD5sum: 4b94579cb0af2ff6f330d05c4eefea0d
+SHA1: 99cf22b671858a72e41ffc4977cdb9663f720bb8
+SHA256: b30921b377c3d1a1473a4d562fb14cb12103f046a957e99d84d9c3a927bb2d38
+Section: System
+Homepage: https://xn117khdsh.github.io/repo
+Description: A File Manager and Viewer.
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile7
+Name: iFile Cracked (iOS 7)
+
+Package: org.xn117khdsh.auxo
+Version: 1.4-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 5.1), mobilesubstrate, preferenceloader, applist
+Filename: ./debs/auxo_1.4-2.deb
+Size: 1954518
+MD5sum: 0fc1c8f29e2532bcefe876666f4a09f7
+SHA1: df0cdcbb660e8cc6deab5107e92a573542fa27f7
+SHA256: ea564a9c2b8b21bb362c7c24f727e225071c97120ea4df8e35896f4e187df6d3
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: A fantastic re-imagined multitasking bar!
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo
+Icon: file:///Library/PreferenceLoader/Preferences/AuxoIcon@2x.png
+Name: Auxo Cracked (iOS 5-6)
+
+Package: us.hackphone.ifile
+Version: 1.7.2-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Conflicts: vn.gsm.ifile, com.heaveniphone.ifile, eu.heinelt.ifile, eu.xn117khdsh.ifile, eu.xn117khdsh.ifile7
+Filename: ./debs/ifile_1.7.2-2.deb
+Size: 4244130
+MD5sum: f746048c67b54910f3554f8e10e1160c
+SHA1: 0da09258e74977b5d4fb5d5c4143301dc76e2521
+SHA256: cb6b2f2e27d20a752197115fc76ebbff0c013684ca3eeec30270cf4e7fb405e7
+Section: System
+Homepage: https://xn117khdsh.github.io/repo
+Description: A File Manager and Viewer.
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=us.hackphone.ifile
+Icon: file:///Applications/iFile.app/Icon.png
+Name: iFile Cracked (iOS 7-Vietnamese)
+
