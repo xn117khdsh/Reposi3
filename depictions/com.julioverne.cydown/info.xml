@@ -11,7 +11,7 @@
     </compatibility>
     <dependencies>file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds</dependencies>
     <descriptionlist>
-        <description>Cydia Download Manager & Extra Features! Initial version of CyDown by julioverne.</description>
+        <description>Cydia Download Manager and Extra Features! Initial version of CyDown by julioverne.</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
