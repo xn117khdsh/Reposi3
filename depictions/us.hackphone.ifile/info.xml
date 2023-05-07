@@ -1,0 +1,21 @@
+<package>
+    <id>us.hackphone.ifile</id>
+    <name>iFile Cracked (iOS 7-Vietnamese)</name>
+    <version>1.7.2-2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>3.0</miniOS>
+            <maxiOS>8.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds</dependencies>
+    <descriptionlist>
+        <description>Old iFile for a lighter and faster experience. Compatible for iOS 7. Vietnamese version by Hackphone.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
