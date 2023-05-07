@@ -11,7 +11,7 @@
     </compatibility>
     <dependencies>apt, findutils, shell-cmds</dependencies>
     <descriptionlist>
-        <description>The first real iOS system cleaner & optimizer. This is the older version for lower iOS.</description>
+        <description>The first real iOS system cleaner and optimizer. This is the older version for lower iOS.</description>
     </descriptionlist>
     <screenshots></screenshots>
     <changelog>
