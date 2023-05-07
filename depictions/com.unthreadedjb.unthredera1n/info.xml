@@ -1,0 +1,21 @@
+<package>
+    <id>org.xn117khdsh.auxo</id>
+    <name>Unthredera1n</name>
+    <version>1.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>4.3.4</miniOS>
+            <maxiOS>5.1</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>iOS 4.3.4 - 5.1 Untethered Jailbreak by @UnthreadedJB for iPhone 3GS / iPhone 4(GSM/CDMA) / iPod Touch(3G/4G) / iPad 1</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
