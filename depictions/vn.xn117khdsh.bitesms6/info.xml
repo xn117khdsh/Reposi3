@@ -1,0 +1,22 @@
+<package>
+    <id>vn.xn117khdsh.bitesms6</id>
+    <name>biteSMS Legacy (iOS 5, 6)</name>
+    <version>7.5</version>
+    <compatibility>
+        <firmware>
+            <miniOS>5.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate</dependencies>
+    <descriptionlist>
+        <description>Frustrated with the built-in Messages app? Want more features? Wish it was much quicker to compose or reply to messages?
+          Then biteSMS is for you, with lots of extra features like Quick Reply, Quick Compose, Scheduled Messages, Auto-Forward, Passcode Lock, Privacy, Contact Pics, Easy Pick Smileys, Templates, Signatures, Delayed Sending, Themes and much more!</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
