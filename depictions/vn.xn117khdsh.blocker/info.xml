@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.blocker</id>
+    <name>AdBlocker (iOS 3-7)</name>
+    <version>1.58</version>
+    <compatibility>
+        <firmware>
+            <miniOS>3.0</miniOS>
+            <maxiOS>7.1.2</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader, applist</dependencies>
+    <descriptionlist>
+        <description>AdBlocker is a new tool to block ad content in Safari and other applications. The program does not create an icon, you can configure it in "Settings".</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
