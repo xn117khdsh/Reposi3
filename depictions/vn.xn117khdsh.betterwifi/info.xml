@@ -1,0 +1,36 @@
+<package>
+    <id>vn.xn117khdsh.betterwifi</id>
+    <name>BetterWiFi (iOS 6)</name>
+    <version>1.0.1a</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>7.1.2</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader</dependencies>
+    <descriptionlist>
+        <description>Have you ever been walking around, looking for an open Wi-Fi network? If yes, you probably missed an option to display ONLY open Wi-Fi networks in the Wi-Fi network list.
+Or do you often have to manually type in the name of your WiFi network to connect to it because it’s far away and doesn’t show up in the wifi network list?
+
+BetterWiFi helps you - by adding a number of useful features to the Wi-Fi functionality of your iDevice:
+
+- An option to display ONLY open Wi-Fi networks in the Wi-Fi network list.
+
+- Pull-to-refresh: It allows you to refresh the Wi-Fi network list by simply pulling it down - like in the Mail app.
+
+- It removes the signal level limit in the Wi-Fi network list which is normally set by apple - this allows you to connect to networks that are even farer away.
+
+- Itr enhances the wifi network list by showing the signal strength in dBm and the wifi’s encryption type.
+
+- It automatically disable your passcode when you’re connected to a specified Wi-Fi network - for example your home Wi-Fi network. New networks can be added easily in the settings.
+
+All the option can be switched off (which they are by default) in the tweak’s preferences.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
