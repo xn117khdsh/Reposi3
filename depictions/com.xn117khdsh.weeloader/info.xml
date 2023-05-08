@@ -1,6 +1,6 @@
 <package>
-    <id>com.chpwn.weeloader</id>
-    <name>WeeLoader</name>
+    <id>com.xn117khdsh.weeloader</id>
+    <name>WeeLoader for NCSettings</name>
     <version>1.2-1</version>
     <compatibility>
         <firmware>
