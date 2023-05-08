@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.quicklock46</id>
+    <name>QuickLock46 (iOS 6-7)</name>
+    <version>0.0.1-18</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>7.1.2</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies></dependencies>
+    <descriptionlist>
+        <description>Just touch to lock your device! This package supports iOS 6 and iOS 7.x. If you have QuickLock 3, uninstall it first before installing this.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
