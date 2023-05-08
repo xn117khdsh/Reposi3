@@ -1,0 +1,6 @@
+<changelog>
+    <changes>
+        <version>1.0.0</version>
+        <change>Compatible with iOS 6. iPad not supported.</change>
+    </changes>
+</changelog>
