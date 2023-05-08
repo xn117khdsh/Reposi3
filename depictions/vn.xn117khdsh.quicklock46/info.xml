@@ -9,7 +9,7 @@
             <otherVersions>unsupported</otherVersions>
         </firmware>
     </compatibility>
-    <dependencies></dependencies>
+    <dependencies>mobilesubstrate</dependencies>
     <descriptionlist>
         <description>Just touch to lock your device! This package supports iOS 6 and iOS 7.x. If you have QuickLock 3, uninstall it first before installing this.</description>
     </descriptionlist>
