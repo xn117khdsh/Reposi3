@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.altkeyboard</id>
+    <name>AltKeyboard (iOS 6)</name>
+    <version>1.0.0</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>7.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader</dependencies>
+    <descriptionlist>
+        <description>AltKeyboard lets you quickly and productively type non-alphabetic characters from your default keyboard view, without having to switch back & forth between iOS keyboard modes. View Changelog for more information.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>Compatible with iOS 6. iPad not supported.</change>
+    </changelog>
+    <links></links>
+</package>
