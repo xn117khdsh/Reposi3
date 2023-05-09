@@ -323,11 +323,11 @@ Version: 1.58
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(>= 3.0), applist
-Filename: ./debs/adblocker_1.58.deb
-Size: 605798
-MD5sum: 09457369ad628ede45af83f31f7111d5
-SHA1: a03c83850a50c1a3822b6c49deb56e48f4dc3fb2
-SHA256: 3857ca1adb68f0bcc63ad2f7c7d06530dc9c71e2f334fdf836ca86e4636d5f40
+Filename: ./debs/adblocker_1.58_fix.deb
+Size: 605030
+MD5sum: eb77d86aa510e170abdf07e9e5035ab2
+SHA1: 67f60fd02262b32ecee993f453e79a7f0cb6e243
+SHA256: 367160e24bfd39523ebe3a71c97f3ae669a9090222de49bd0532fea7c2bb9a39
 Section: Tweaks
 Homepage: https://xn117khdsh.github.io/repo/
 Description: Ad blocker for Safari and other apps
