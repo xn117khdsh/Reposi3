@@ -90,22 +90,6 @@ Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.icleanerpro
 Name: iCleaner Pro Cracked
 
-Package: com.xn117khdsh.ncsettings
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 5.0), mobilesubstrate, com.xn117khdsh.weeloader, preferenceloader
-Filename: ./debs/ncsettings_1.7.1.deb
-Size: 472208
-MD5sum: ed3c9b374579bdca69da068e7f96d979
-SHA1: 1b1aef3ec6ced3027db7e3316304c210fdd79936
-SHA256: f762c607fac403e9cda6f35b69e69bdac7c4cb6e4c7ee75fac74120563a434c8
-Section: Addons (NotificationCenter)
-Homepage: https://xn117khdsh.github.io/repo/
-Description: NCSettings is a sleek Notification Center toggle widget
-Author: JamieD360
-Name: NCSettings
-
 Package: com.xn117khdsh.p1neapple.zephyr
 Version: 1.6.4-1
 Architecture: iphoneos-arm
@@ -122,24 +106,6 @@ Description: Awesome swipe multitasking and gestures!
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
 Name: Zephyr Cracked (iOS 5-6)
-
-Package: com.xn117khdsh.weeloader
-Version: 1.2-1
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Pre-Depends: firmware (>= 5.0)
-Depends: mobilesubstrate
-Filename: ./debs/weeloader_1.2-1.deb
-Size: 4020
-MD5sum: 924e3e937bb683acb530cd2d111c4408
-SHA1: ff8fb0fc524862fd65ecf2a648272d25c420fb1b
-SHA256: fb32f363c15235da0f57b7564f16e5f3ac01bc13e5447fdf199554804faf455a
-Section: Tweaks
-Homepage: https://xn117khdsh.github.io/repo
-Description: Old WeeLoader for NCSettings on iOS 6.
-Author: xn117khdsh
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.weeloader
-Name: WeeLoader for NCSettings
 
 Package: eu.xn117khdsh.ifile
 Version: 1.6.1-1
