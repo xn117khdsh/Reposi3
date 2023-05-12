@@ -20,37 +20,38 @@ Package: com.linusyang.appsyncnew
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Linus Yang
-Installed-Size: 104
 Depends: mobilesubstrate
 Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
 Provides: appsync
 Filename: ./debs/appsyncnew_1.4.deb
-Size: 6436
-MD5sum: b4f4fc9eb7f8e7e5c0dd8b6d3a7d3b49
-SHA1: 8249caf96d7551e09c0e152c86e2489c5fb87c2b
-SHA256: 019cf92994a10bb5dfda4b4c97d63c105ae67d0e4befe15f0d035d3c40505d6f
+Size: 6744
+MD5sum: e825d68bf18a7d35e18001c631f194ce
+SHA1: beb3dc78898caea4a6872fbb820d497a643d5aff
+SHA256: 35da9f1b9c918244605a3667e62ba8584d46ae3e3f832537549216be03c8f950
 Section: Tweaks
 Description: bypass signature check of installd
 Author: Linus Yang
-Name: AppSync New
+Name: AppSync New (iOS 6-13)
 
 Package: com.unthreadedjb.unthredera1n
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: xn117khdsh
+Maintainer: ichitaso
 Pre-Depends: cy+model.iphone (= 3.1) | cy+model.iphone (= 3.3) | cy+model.iphone (= 2.1) | cy+model.ipod (= 4.1) | cy+model.ipod (= 3.1) | cy+model.ipad (= 1.1), firmware (= 4.3.4) | firmware (= 4.3.5) |  firmware (= 5.0) | firmware (= 5.1)
 Conflicts: repo.weiphone.unthredera1n
 Replaces: com.unthreadedjb.unthredera1n
-Filename: ./debs/unthredera1n_1.0.deb
-Size: 155336
-MD5sum: 00071c9acecc1ced69eb1df7c9a14a22
-SHA1: 51c0f32a55b90a787480fe6d88becf889d2b2ca3
-SHA256: 0a0e82edaa3242659bff7cf62bd49677154fc3f2aa8f8b378a3895c649ef597e
+Filename: ./debs/com.unthreadedjb.unthredera1n_1.0_iphoneos-arm.deb
+Size: 155366
+MD5sum: d8b325819101a28a7ac1b4de043a19f7
+SHA1: 2223f98388375e8d793feeb4cd63055118d9b2d7
+SHA256: 1928fbc5d180fffe651921d268929f916b02a0ab2b8b0ce53d8b774b218d0122
 Section: System
-Homepage: https://xn117khdsh.github.io/repo/
+Priority: standard
+Homepage: http://unthreadedjb.com/
 Description: iOS 4.3.4 - 5.1 Untethered Jailbreak by @UnthreadedJB for iPhone 3GS / iPhone 4(GSM/CDMA) / iPod Touch(3G/4G) / iPad 1
+Tag: role::enduser
 Author: UnthreadedJB
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.unthreadedjb.unthredera1n
+Depiction: http://ichitaso.com/apt/depiction/unthredera1n.html
 Name: Unthredera1n
 
 Package: com.xn117khdsh.abs
@@ -89,6 +90,25 @@ Description: The first real iOS system cleaner & optimizer
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.icleanerpro
 Name: iCleaner Pro Cracked
+
+Package: com.xn117khdsh.insomniapro
+Version: 5.0
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: ch.ringwald.springboardaccess | firmware (<< 4.0), firmware (>= 5.1)
+Conflicts: com.imalc.insomnia
+Replaces: com.imalc.insomnia
+Filename: ./debs/insomniapro_5.0.deb
+Size: 261128
+MD5sum: 8d0b730da71886c22dae9a50834f7ffc
+SHA1: 0ff241d44c216ca9f22524f1879a20477f4e9d1a
+SHA256: 9701236da78297baa74ab8cdfb32265a951676d55b3c69b7ad5d1259d0800117
+Section: Utilities
+Homepage: https://xn117khdsh.github.io/repo
+Description: Keeps WiFi Apps from Sleeping. Cracked by Fabius.
+Author: Malcolm Hall
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.insomniapro
+Name: Insomnia Pro Cracked (iOS 5.1.1-7)
 
 Package: com.xn117khdsh.p1neapple.zephyr
 Version: 1.6.4-1
@@ -146,17 +166,36 @@ Name: iFile Cracked (iOS 7)
 Package: io.pangu.axe7
 Version: 0.3
 Architecture: iphoneos-arm
-Maintainer: xn117khdsh
+Maintainer: Pangu <axe@pangu.io>
 Depends: coreutils-bin, firmware (>= 7.1), firmware (<= 7.1.2)
-Filename: ./debs/io.pangu.axe7_0.3.deb
-Size: 107746
-MD5sum: a5775b53c824482cee953cc4f716e6a5
-SHA1: 7cf89a51d48b82c12ea5b5c6f14c58fed0be0f27
-SHA256: 1c4ac017e284772a88c5fc4b3ea4e0b469c457a01839ac22794522e005fc36bc
+Filename: ./debs/io.pangu.axe7_0.3_iphoneos-arm.deb
+Size: 107276
+MD5sum: 3d86ef34bda9287e6081dda95b7593dd
+SHA1: 4267988b1bfdc4578dced131667ccca8eb6eb986
+SHA256: db7e412fd629802e26c8aec481cdca9cfe0a3bc33c7a4cc243351245da5cb172
 Section: System
-Description: The Pangu iOS 7.1.x untether. Version 0.3 adds small improvements to this untether. Your device will need to reboot for these changes to take effect.
-Author: Pangu
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: http://cydia.saurik.com/info/io.pangu.axe7/
 Name: Pangu 7.1-7.1.x Untether
+
+Package: io.pangu.xuanyuansword8
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Pangu <axe@pangu.io>
+Depends: coreutils-bin, firmware (>= 8.0), firmware (<= 8.1)
+Filename: ./debs/io.pangu.xuanyuansword8_0.5_iphoneos-arm.deb
+Size: 456978
+MD5sum: 4aaf6a47faf4896d73955980eaa9c078
+SHA1: c6b1673b646a5a72a92232210bf3fb4c44dba9ce
+SHA256: 16ebfa004be2825288121560a73b67729fcc6721e6fca83c7963db812d934e96
+Section: System
+Priority: optional
+Description: untethered jailbreak based on pangu exploits
+Author: Pangu <axe@pangu.io>
+Depiction: http://cydia.saurik.com/info/io.pangu.xuanyuansword8/
+Name: Pangu 8.0-8.1 Untether
 
 Package: org.xn117khdsh.auxo
 Version: 1.4-2
@@ -227,6 +266,24 @@ Description: flick up to input numeric or special characters
 Author: A3tweaks
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.altkeyboard
 Name: AltKeyboard (iOS 6)
+
+Package: vn.xn117khdsh.apex
+Version: 1.4.1-1fix
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: mobilesubstrate, com.chpwn.iconsupport, firmware (>= 6.0)
+Conflicts: gsc.ipad
+Filename: ./debs/apex_1.4.1-1fix.deb
+Size: 229108
+MD5sum: eb7a0e318360ee141ad8be63b157b84f
+SHA1: 688adc5cf7af824f8d3b80fd7f92f7621c7b3976
+SHA256: 17ed3a949e760bffab2b4f3d6a9a9a232f0c45e79a30abde4b74ffa4cdd44aad
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: Folders, what folders? Cracked by julioverne.
+Author: A3Tweaks
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.apex
+Name: Apex Cracked (iOS 6)
 
 Package: vn.xn117khdsh.appsync50plus
 Version: 2.2b
@@ -318,23 +375,6 @@ Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.bitesms6
 Name: biteSMS Legacy (iOS 5, 6)
 
-Package: vn.xn117khdsh.blocker
-Version: 1.58
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware(>= 3.0), applist
-Filename: ./debs/adblocker_1.58_fix.deb
-Size: 605030
-MD5sum: eb77d86aa510e170abdf07e9e5035ab2
-SHA1: 67f60fd02262b32ecee993f453e79a7f0cb6e243
-SHA256: 367160e24bfd39523ebe3a71c97f3ae669a9090222de49bd0532fea7c2bb9a39
-Section: Tweaks
-Homepage: https://xn117khdsh.github.io/repo/
-Description: Ad blocker for Safari and other apps
-Author: Yllier
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.blocker
-Name: AdBlocker (iOS 3-7)
-
 Package: vn.xn117khdsh.clutch
 Version: 2.0rc7
 Architecture: iphoneos-arm
@@ -367,6 +407,23 @@ Description: Cydia Download Manager and Extra Features!
 Author: julioverne
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.cydown
 Name: CyDown Legacy
+
+Package: vn.xn117khdsh.mailenhancerpro2
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: mobilesubstrate, preferenceloader (>= 2.0.4), firmware (>= 6.0)
+Filename: ./debs/mailenhancerpro2_2.1-1.deb
+Size: 797768
+MD5sum: 216ae6c17c0c4394134b65de1540c0ff
+SHA1: f10ac76e01efb9ffb29354517972b03b88831ee6
+SHA256: 01e7d1330f4ba5020e8708338f1c623d275f5315ac5a4d86f30235e7383c3017
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: Multiple Signatures, Rules, Custom Notifications, Highlighting, Mail Filter, Quick actions, Select All, HTML-Composing, Business Usage
+Author: Stefan Moellenkamp
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.mailenhancerpro2
+Name: Mail Enhancer Pro (iOS 6)
 
 Package: vn.xn117khdsh.quicklock3
 Version: 1.0
@@ -421,6 +478,23 @@ Homepage: https://xn117khdsh.github.io/repo/
 Description: Support library for Lockdown Pro, Lite, etc. Required for Auto App Killer.
 Author: xn117khdsh
 Name: SBInfoGrabber for Auto App Killer
+
+Package: vn.xn117khdsh.unlockfx
+Version: 1.1-6
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 4.3), mobilesubstrate, preferenceloader
+Filename: ./debs/unlockfx_1.1-6.deb
+Size: 43252
+MD5sum: 0b672f726dd2b4819333bdd4e89a4801
+SHA1: aab1ca465925845c9afd090f585d618de8843363
+SHA256: ba7c4326d410d5ed8f890a65bcf5ae3d726490a78b5bf0fe07f8e46bdac5286e
+Section: Tweaks
+Homepage: https://xn117khdsh.github.io/repo
+Description: 30+ animations to unlock with style
+Author: FilippoBiga
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.unlockfx
+Name: UnlockFX Cracked (iOS 4.3-6)
 
 Package: vn.xn117khdsh.youtubeforios61
 Version: 1.0
