@@ -1,0 +1,25 @@
+<package>
+    <id>vn.xn117khdsh.unlockfx</id>
+    <name>UnlockFX Cracked (iOS 4.3-6)</name>
+    <version>1.1-6</version>
+    <compatibility>
+        <firmware>
+            <miniOS>4.3</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader</dependencies>
+    <descriptionlist>
+        <description>UnlockFX gives you special effects for the unlock animation. Rotate, move, flip, skew your lockscreen while unlocking!
+          UnlockFX includes more than 30 different animations, from simple (one way rotations or directional slides) to complex ones.
+          You can also choose an image to be shown when unlocking.
+          UnlockFX works on iPhone, iPod touch and iPad.
+          Configure options from Settings app</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
