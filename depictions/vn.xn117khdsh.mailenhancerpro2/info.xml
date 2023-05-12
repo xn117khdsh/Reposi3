@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.mailenhancerpro2/id>
+    <name>Mail Enhancer Pro 2 (iOS 6)</name>
+    <version>2.1-1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader</dependencies>
+    <descriptionlist>
+        <description>Mail Enhancer is a tweak that significantly extends the functionality of the standard mail client. Tweak settings are made through the Phone Settings, no additional icons appear on the desktop.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
