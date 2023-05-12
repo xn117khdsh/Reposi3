@@ -1,0 +1,21 @@
+<package>
+    <id>vn.xn117khdsh.apex</id>
+    <name>Apex Cracked (iOS 6)</name>
+    <version>1.4.1-1fix</version>
+    <compatibility>
+        <firmware>
+            <miniOS>6.0</miniOS>
+            <maxiOS>6.1.6</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, com.chpwn.iconsupport</dependencies>
+    <descriptionlist>
+        <description>Apex lets you group your related apps in a unique, beautifully fun way! Cracked by julioverne.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
