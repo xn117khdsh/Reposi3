@@ -23,15 +23,31 @@ Maintainer: Linus Yang
 Depends: mobilesubstrate
 Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
 Provides: appsync
-Filename: ./debs/appsyncnew_1.4.deb
-Size: 6744
-MD5sum: e825d68bf18a7d35e18001c631f194ce
-SHA1: beb3dc78898caea4a6872fbb820d497a643d5aff
-SHA256: 35da9f1b9c918244605a3667e62ba8584d46ae3e3f832537549216be03c8f950
+Filename: ./debs/appsyncnew.deb
+Size: 6424
+MD5sum: eee3987d56695951f723896bff9fdaa8
+SHA1: edc31286b91ed3f0d35971974e26a5dba079a08e
+SHA256: 91f8faa75993e4e2f0e6ddc00da8ce5d722468ddde584bcac1edf75a167df655
 Section: Tweaks
 Description: bypass signature check of installd
 Author: Linus Yang
-Name: AppSync New (iOS 6-13)
+Name: AppSync New
+
+Package: com.piercingimpulse.verduraios
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: PiercingImpulse
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.piercingimpulse.verduraios_0.0.2_iphoneos-arm.deb
+Size: 36258
+MD5sum: 8cb7896285b3e515476450cb36093c31
+SHA1: e4b349a7546415461ecb34060068c4e9222b9805
+SHA256: 99d60b9815e16c9e5d02d27c5090c7e724899fb5b7232f1981564652080123c4
+Section: Tweaks
+Description: Tired to watch YouTube on Safari or Google Chrome on older device? Download YouTube 10.11.11546, spoof the version on the plist file and then get VerduraiOS! For the full guide on how to use it, please visit my GitHub page :)
+Author: PiercingImpulse
+Name: Verdura iOS [BETA]
 
 Package: com.unthreadedjb.unthredera1n
 Version: 1.0
@@ -70,6 +86,21 @@ Homepage: https://xn117khdsh.github.io/repo/
 Description: Bluetooth OBEX and WiFi(P2P supported) File Transfer, AirDrop for your iOS
 Author: xn117khdsh
 Name: AirBlue Sharing (iOS 7-)
+
+Package: com.xn117khdsh.deezelife
+Version: 0.2-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: mobilesubstrate
+Filename: ./debs/deezelife.deb
+Size: 43692
+MD5sum: 6058114a70678f0847bf2d1d451384b0
+SHA1: 6c010a1cf4b9f7979e2a1b2f5f6e1eea7bf3f933
+SHA256: f827faf24de6d29cb9c44ba5a0e87457d673926074fb94a77cada8852d10efa3
+Section: Tweaks
+Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer App (AppStore)
+Author: julioverne
+Name: Deezelife
 
 Package: com.xn117khdsh.icleanerpro
 Version: 7.6.4
@@ -162,6 +193,22 @@ Description: A File Manager and Viewer.
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=eu.xn117khdsh.ifile7
 Name: iFile Cracked (iOS 7)
+
+Package: info.cracklords.weatherfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CrackLords
+Pre-Depends: firmware (>= 6.0)
+Filename: ./debs/weatherfix.deb
+Size: 82968
+MD5sum: 24811a115340b2ff9150ffa5b3304b76
+SHA1: 765a4f048b80297b72693c26da35d16ad4289419
+SHA256: a54802aa2a7edf47f2df57b54df6fb06bb85fe9fa077ba1daa9b58a1ce783cae
+Section: Tweaks
+Description: A simple fix for the crashing of the Weather app after performing the untethered iOS 6 jailbreak.
+Author: 3nrico
+Depiction: http://cracklords.info/repo/debs/info.cracklords.weatherfix/FILE/index.html
+Name: iOS 6 Weather App Fix
 
 Package: io.pangu.axe7
 Version: 0.3
@@ -510,4 +557,25 @@ Section: Utilities
 Description: Alternative Classic YouTube App for iOS 6.1 by jailbreakstyle. For users who have problems with InvoxiPlayGames's Youtube App. Works well with TubeFixer (IPG's Beta Repo).
 Author: jailbreakstyle
 Name: Youtube for iOS 6.1
+
+Package: ws.hbang.common
+Version: 1.17
+Architecture: iphoneos-arm
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 1852
+Depends: firmware (<< 8.0) | firmware (>= 11.0) | com.rpetrich.rocketbootstrap
+Filename: ./debs/ws.hbang.common_1.17_iphoneos-arm.deb
+Size: 207662
+MD5sum: aea7132dbb77bf799ed6ff1942af9c0a
+SHA1: db31f872dab06eaeb0bc732ede9af5d2e94b52c5
+SHA256: 3eaea1713f40ef02606bfa67f44f62529ea8b923c0aefb39fc68e230c40a0f6d
+Section: Development
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios5.0
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://chariz.com/get/cephei
+Dev: hbang
+Icon: https://cdn.chariz.cloud/icon/cephei/icon@3x.png
+Name: Cephei Tweak Support
+Support: https://hashbang.productions/support/
 
