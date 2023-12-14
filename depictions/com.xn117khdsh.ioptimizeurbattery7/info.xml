@@ -11,24 +11,16 @@
     </compatibility>
     <dependencies>mobilesubstrate, preferenceloader, libstatusbar</dependencies>
     <descriptionlist>
-        <description>Compatible with iOS 7, 8 and 9
-
-The only tweak that can double your battery life
-- Clever: automatically switches off battery-draining components when unused
-- Efficient: up to 2 times battery life and more!
-- Wise: extends battery life time by reducing number of charge cycles
-- Clear: includes monitoring views to check battery state in real-time!
-- Intuitive: with pull to refresh feature
-BattSaver app on your home screen
-One that had problem with icon not showing may has to reboot her/his iPhone to make the icon show.
-Some people asked where is the battery event database: it is store in /private/var/mobile/Library/Preferences/ com.xvolks.iOptimizerUrBattery-stats/stats.db
-
-If the BattSaver icon does not shows up, try to uninstall AppSync for iOS8, thanks to Kyle for the trick.
-BattSaver does not turn off radio when you turn off your phone:
-- verify that the strategy you use is OK for that (and settings for Custom),
-- verify that an application marked for this behaviour does not run in background.
-Radio stays to 3G in iMessageFriendly mode: most of 4G devices cannot turn off the 3G and cannot go to 2G :(. Check this in Infos view. Even if your carrier seems to allow you to go to 2G, some of them does not allow it for some reason...
-
+        <description>
+The only tweak that can double your battery life&#xA;
+- Clever: automatically switches off battery-draining components when unused&#xA;
+- Efficient: up to 2 times battery life and more!&#xA;
+- Wise: extends battery life time by reducing number of charge cycles&#xA;
+- Clear: includes monitoring views to check battery state in real-time!&#xA;
+- Intuitive: with pull to refresh feature&#xA;
+BattSaver app on your home screen&#xA;
+One that had problem with icon not showing may has to reboot her/his iPhone to make the icon show.&#xA;
+Some people asked where is the battery event database: it is store in /private/var/mobile/Library/Preferences/ com.xvolks.iOptimizerUrBattery-stats/stats.db&#xA;
 As usual, if the list of applications is empty or not up-to-date, go back and recheck (asynchronous refresh).</description>
     </descriptionlist>
     <screenshots></screenshots>
