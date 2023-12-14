@@ -135,6 +135,36 @@ Description: Deezer Fully Premium Features, Unrestrict Music... Requires Deezer 
 Author: julioverne
 Name: Deezelife
 
+Package: com.xn117khdsh.filza
+Version: 2.0.1-56
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/filza_2.0.1-56.deb
+Size: 9232512
+MD5sum: a57ac1826216761a82c0be82c97ab1ea
+SHA1: 53fafd99673d5890b79dc1426783af5229380dcc
+SHA256: 825bbdcfe77a27c19b6192717d78d41ba330c4cafd3aff78a391d97564b52635
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
+Author: TIGI Software
+Name: Filza File Manager (Cracked)
+
+Package: com.xn117khdsh.filza
+Version: 3.0.0-73
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/filza_3.0.0-73.deb
+Size: 9398260
+MD5sum: 5654221782f406b6ab27a72f3d392b65
+SHA1: 9a72e649bbbb35a56240d28ab1192e84bfd3c3b4
+SHA256: fb411f5869e2304e684d9d78369095155707860109be867ef03d1f537e311ec4
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
+Author: TIGI Software
+Name: Filza File Manager (Cracked)
+
 Package: com.xn117khdsh.icleanerpro
 Version: 7.6.4
 Architecture: iphoneos-arm
@@ -173,23 +203,6 @@ Description: Keeps WiFi Apps from Sleeping. Cracked by Fabius.
 Author: Malcolm Hall
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.insomniapro
 Name: Insomnia Pro Cracked (iOS 5.1.1-7)
-
-Package: com.xn117khdsh.ioptimizeurbattery7
-Version: 2.0.7
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar
-Conflicts: org.thebigboss.ioptimizeurbattery
-Filename: ./debs/ioptimizeurbattery7.deb
-Size: 1163220
-MD5sum: 65128c17e22e2d17ccc2ec9b46f92ccf
-SHA1: c8ad11073dfad5d2b8e5387b0faa6e44a4d85ac2
-SHA256: e4e1de6bb44cc4c3e933f947cf1edd2ab59dafc01b6fb405e61ced43823ae028
-Section: Tweaks
-Description: clever efficient power management system
-Author: Xvolks
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.ioptimizeurbattery7
-Name: BattSaver for iOS 7
 
 Package: com.xn117khdsh.p1neapple.zephyr
 Version: 1.6.4-1
