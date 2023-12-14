@@ -50,6 +50,22 @@ Description: remove ads in Youtube app
 Author: Linus Yang
 Name: YoutubeNoAd
 
+Package: com.pNre.noannoyance
+Version: 0.1.3-1
+Architecture: iphoneos-arm
+Maintainer: pNre <pnre00+noannoyance@gmail.com>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7)
+Filename: ./debs/noannoyance7.deb
+Size: 30872
+MD5sum: 54c3799abd4e7b1a6752e9bee989a357
+SHA1: d18410a935aa874c9de7137a1cd48c6797985786
+SHA256: 5c2f7d6c3dfe2b8fd30c45f082b1a13d3242987944ff75573cb61ff5dc1224e0
+Section: Tweaks
+Description: Tame iOS annoying alerts!
+Author: pNre <pnre00+noannoyance@gmail.com>
+Icon: file:///Library/PreferenceBundles/NoAnnoyancePrefs.bundle/NoAnnoyance@2x.png
+Name: NoAnnoyance (iOS 7)
+
 Package: com.piercingimpulse.verduraios
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -158,6 +174,23 @@ Author: Malcolm Hall
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.insomniapro
 Name: Insomnia Pro Cracked (iOS 5.1.1-7)
 
+Package: com.xn117khdsh.ioptimizeurbattery7
+Version: 2.0.7
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libstatusbar
+Conflicts: org.thebigboss.ioptimizeurbattery
+Filename: ./debs/ioptimizeurbattery7.deb
+Size: 1163220
+MD5sum: 65128c17e22e2d17ccc2ec9b46f92ccf
+SHA1: c8ad11073dfad5d2b8e5387b0faa6e44a4d85ac2
+SHA256: e4e1de6bb44cc4c3e933f947cf1edd2ab59dafc01b6fb405e61ced43823ae028
+Section: Tweaks
+Description: clever efficient power management system
+Author: Xvolks
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.ioptimizeurbattery7
+Name: BattSaver for iOS 7
+
 Package: com.xn117khdsh.p1neapple.zephyr
 Version: 1.6.4-1
 Architecture: iphoneos-arm
@@ -217,14 +250,13 @@ Architecture: iphoneos-arm
 Maintainer: CrackLords
 Pre-Depends: firmware (>= 6.0)
 Filename: ./debs/weatherfix.deb
-Size: 82968
-MD5sum: 24811a115340b2ff9150ffa5b3304b76
-SHA1: 765a4f048b80297b72693c26da35d16ad4289419
-SHA256: a54802aa2a7edf47f2df57b54df6fb06bb85fe9fa077ba1daa9b58a1ce783cae
+Size: 82932
+MD5sum: 3d51b87cc3335afd1bdf82176dcf4c19
+SHA1: e5753e17ca5a80c9035e3846fcec33fcc9dd7d48
+SHA256: 10a766866cf42009a42de48444f23bbb8561602ff1c30cd10ca9e643898eb797
 Section: Tweaks
 Description: A simple fix for the crashing of the Weather app after performing the untethered iOS 6 jailbreak.
 Author: 3nrico
-Depiction: http://cracklords.info/repo/debs/info.cracklords.weatherfix/FILE/index.html
 Name: iOS 6 Weather App Fix
 
 Package: io.pangu.axe7
@@ -472,6 +504,56 @@ Author: julioverne
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.cydown
 Name: CyDown Legacy
 
+Package: vn.xn117khdsh.gameplayer
+Version: 3.4
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 6.0), firmware (<< 10.0)
+Conflicts: com.duowan.gameplayer
+Filename: ./debs/gameplayer.deb
+Size: 1504354
+MD5sum: 1d38b6c21ac0d610fd9a306e3575b5de
+SHA1: dbc255b0af5f70d2db7991d6c6ba62d44f453ecc
+SHA256: 81b33e04f0e8c525701abf96cc1c2b8f100d326ded68fa343015e6c18e9b510b
+Section: Utilities
+Priority: optional
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x, 8.x and 9.x are supported.
+Author: Maocai Luo
+Icon: file:///Applications/GamePlayer.app/icon-57.png
+Name: GamePlayer
+
+Package: vn.xn117khdsh.iap
+Version: 0.8-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>= 3.0), firmware (<< 6.0)
+Filename: ./debs/iapcracker.deb
+Size: 65834
+MD5sum: b17c11f5cad23752c532a5c705d3c7a9
+SHA1: 672d2d5488fa88933d144c5a0b004bf83042cb95
+SHA256: 1c7020a6544b504fa2c04a5e1cd94f77da2d9bc47c27e18a3f76336592edeeec
+Section: Tweaks
+Description: Free inapp purchases for old iOS
+Author: Appstore
+Name: iAP Cracker (iOS 3-5)
+
+Package: vn.xn117khdsh.igameguardian
+Version: 3.1.0
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 5.0), firmware (<< 7.0)
+Filename: ./debs/igameguardian.deb
+Size: 260140
+MD5sum: dc22cd229adaab4be89fbfed7732bb66
+SHA1: e4309d9f31896ec1baa3ffca4a78086740b2a076
+SHA256: 15f0d31dba709adb66a8bf0db3e0b6740083cb0c9c677a85a148903f4996eda8
+Section: Utilities
+Description: iGameGuardian is a game cheating engine for iOS 5.x/6.x.
+Author: Guardian
+Icon: file:///Applications/iGameGuardian.app/pug_57.png
+Name: iGameGuardian
+
 Package: vn.xn117khdsh.mailenhancerpro2
 Version: 2.1-1
 Architecture: iphoneos-arm
@@ -488,6 +570,22 @@ Description: Multiple Signatures, Rules, Custom Notifications, Highlighting, Mai
 Author: Stefan Moellenkamp
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.mailenhancerpro2
 Name: Mail Enhancer Pro (iOS 6)
+
+Package: vn.xn117khdsh.oregontraildlc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: coreutils, com.ericasadun.utilities
+Filename: ./debs/theoregontraildlc.deb
+Size: 1198
+MD5sum: db05bcd7c7b29eaafc57bbf95d16dde8
+SHA1: f702d8f3e610e5a9c4d54b6a5e664ffbb11c3f0d
+SHA256: a1f566b3dc086b17cf0112c896676eb19d947a74e2f98fc750e7c663ab7d146d
+Section: Tweaks
+Priority: Standard
+Description: The Oregon Trail hack for iOS. Including: 999,998 Coins & 9,999 Cash. Install game version 1.9.8 and create a new game first before installing this patch.
+Author: Appstore
+Name: The Oregon Trail Patch (Money Hack)
 
 Package: vn.xn117khdsh.quicklock3
 Version: 1.0
