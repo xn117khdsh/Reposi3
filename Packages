@@ -16,21 +16,6 @@ Depiction: https://xn117khdsh.github.io/repo/depictions/?p=anondev.LocalIAPStore
 Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
 Name: LocalIAPStore Legacy
 
-Package: com.iapphacks.ironman3
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Jack
-Depends: mobilesubstrate
-Filename: ./debs/im3_1.0.0.deb
-Size: 21098
-MD5sum: baea3a5bd6971a006e29bc16efad8a9f
-SHA1: 58667058a3833545735cd14d3a7e2af7df3b689b
-SHA256: 531c9f191c90c37004fe862b74fbae75fe067b57c8548a2d9b3e480212a980e6
-Section: Hacks
-Description: ISO-8 and Credits Hack for Iron Man 3 v1.0.0
-Author: Jack
-Name: Iron Man 3 - Official Game Hacks (v1.0.0)
-
 Package: com.linusyang.appsyncnew
 Version: 1.4
 Architecture: iphoneos-arm
@@ -117,21 +102,6 @@ Tag: role::enduser
 Author: UnthreadedJB
 Depiction: http://ichitaso.com/apt/depiction/unthredera1n.html
 Name: Unthredera1n
-
-Package: com.xn117khdsh.IronMan3
-Version: 1.5.0
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: mobilesubstrate
-Filename: ./debs/im3_1.5.0.deb
-Size: 33528
-MD5sum: 1da8c716fc7e9cd71e7aecd373fbe172
-SHA1: fa99c15e1a4ddd80ba21acbdbc4f82dfb0046f0c
-SHA256: 23fd6d10937c8f5febc761e90dbe5bcbbcb2b7358c88bbd5533d88bb730718d0
-Section: Tweaks
-Description: ISO-8 and Credits Hack for Iron Man 3 v1.5.0
-Author: AirMAX
-Name: Iron Man 3 - Official Game Hacks (v1.5.0)
 
 Package: com.xn117khdsh.abs
 Version: 1.3.95
