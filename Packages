@@ -16,6 +16,43 @@ Depiction: https://xn117khdsh.github.io/repo/depictions/?p=anondev.LocalIAPStore
 Icon: file:///Library/PreferenceLoader/Preferences/LocalIAPStoreIcon@2x.png
 Name: LocalIAPStore Legacy
 
+Package: com.ashman.clockhide
+Version: 2.0.0.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Pre-Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com_ashman_clockhide_2_0_0_1_iphoneos-arm.deb
+Size: 18026
+MD5sum: e824565fdf6c6ff9accf279412af6509
+SHA1: 1c589a3c380838a9f6f414b7492f592cb277c113
+SHA256: 6f443617812dfe3f69a3eb82676a0343de6a010f20195087dad776a948a88517
+Section: Tweaks
+Homepage: http://modmyi.com/info/clockhide.php
+Description: Hide the clock on the lock screen.
+Author: David Ashman (Stimpy5050) <dashman@gmail.com>
+Depiction: http://modmyi.com/info/clockhide.d.php
+Name: Lockscreen Clock Hide
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.jamied360.ncsettings
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: ./debs/com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469874
+MD5sum: bf8712b0dc555e0ddd05a688d02177d1
+SHA1: 9048c96d35173ba9baa703243b16854c2158584c
+SHA256: ed5285afc1e870fd4e5f8fca743794864c8b1cde89e337e3b44cb8e9d11b62f3
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.linusyang.appsyncnew
 Version: 1.4
 Architecture: iphoneos-arm
@@ -49,6 +86,24 @@ Section: Tweaks
 Description: remove ads in Youtube app
 Author: Linus Yang
 Name: YoutubeNoAd
+
+Package: com.modmyi.brightnessfixforios6
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.modmyi.brightnessfixforios6_1.0_iphoneos-arm.deb
+Size: 3426
+MD5sum: f0001067f1e3ab52b74b9f22ea4af9c9
+SHA1: c5a29ee07d2e39ed7ae9aea56349da8337b50180
+SHA256: 6a4db1962a86371a55f3252cf9e7121423ef77346c4a4af1e20b7cf6a0b0f255
+Section: Tweaks
+Homepage: http://modmyi.com/info/brightnessfixforios6.php
+Description: Restores the screen brightness level after a respring.
+Author: Jonas Gessner <ask.maxner@hotmail.com>
+Depiction: http://modmyi.com/info/brightnessfixforios6.d.php
+Name: BrightnessFix for iOS 6
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.pNre.noannoyance
 Version: 0.1.3-1
@@ -136,15 +191,45 @@ Author: julioverne
 Name: Deezelife
 
 Package: com.xn117khdsh.filza
+Version: 1.5-211
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/filza_1.5-211.deb
+Size: 7697546
+MD5sum: addbb4ec1b4c680721f4db1afd1fa9f8
+SHA1: 3bb0e6f3b21b3ead8a883b5c4e6562043b3582da
+SHA256: 69431bf205e891804bf2d33bbe60de7d18bcebaadd9149bbce29dc7fc0a2fb7a
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
+Author: TIGI Software
+Name: Filza File Manager (Cracked)
+
+Package: com.xn117khdsh.filza
+Version: 2.0.0-129
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/filza_2.0.0-129.deb
+Size: 9223562
+MD5sum: d676a15a4f8663e71b403f1cfc037584
+SHA1: d048d753f6f7998f11500f26f9bfc4f224e95732
+SHA256: 31729afe0b3e58097df6dd2f69436e8a03d5f386fd298e3249690c6e96f11b3a
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
+Author: TIGI Software
+Name: Filza File Manager (Cracked)
+
+Package: com.xn117khdsh.filza
 Version: 2.0.1-56
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
-Depends: zip, unzip, gzip, unrar, p7zip
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Filename: ./debs/filza_2.0.1-56.deb
-Size: 9232512
-MD5sum: a57ac1826216761a82c0be82c97ab1ea
-SHA1: 53fafd99673d5890b79dc1426783af5229380dcc
-SHA256: 825bbdcfe77a27c19b6192717d78d41ba330c4cafd3aff78a391d97564b52635
+Size: 9232528
+MD5sum: 29b577fbd3f14ec027067ead3140b0ba
+SHA1: a129414158dd332905c74e4b602dcfb76c00ee53
+SHA256: 3f3468bf6c99d5b849fccc7e549572037c456d479478fefec494a39f3b760bef
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
 Author: TIGI Software
@@ -154,12 +239,12 @@ Package: com.xn117khdsh.filza
 Version: 3.0.0-73
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
-Depends: zip, unzip, gzip, unrar, p7zip
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
 Filename: ./debs/filza_3.0.0-73.deb
-Size: 9398260
-MD5sum: 5654221782f406b6ab27a72f3d392b65
-SHA1: 9a72e649bbbb35a56240d28ab1192e84bfd3c3b4
-SHA256: fb411f5869e2304e684d9d78369095155707860109be867ef03d1f537e311ec4
+Size: 9398276
+MD5sum: d22d765d9c470f5e2a0ce4077a7fd936
+SHA1: c6953cd0f45d1958073dd90e4b88cd37f98d0dbd
+SHA256: 7d53e901f1faaf759cdd5c4d93fa998600b8f292c69d2055cb5b3597c30db48e
 Section: Utilities
 Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old version for best performance to older iDevices.
 Author: TIGI Software
@@ -220,6 +305,21 @@ Description: Awesome swipe multitasking and gestures!
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.p1neapple.zephyr
 Name: Zephyr Cracked (iOS 5-6)
+
+Package: com.xn117khdsh.weeradio
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware(>= 5.0), mobilesubstrate(>= 0.9.3901)
+Filename: ./debs/weeradio_1.1_iphoneos-arm.deb
+Size: 39200
+MD5sum: 139068fb27d83b6a6a7acb4c25259696
+SHA1: cb71b37f522e3e010866cf7d8cfbf37d8a4a3996
+SHA256: 6f89ada0c1d6e85d0be9d0267b364f411248e00100f95b40497fca39fd7230c5
+Section: Tweaks
+Description: favorite radio streams in NotificationCenter
+Author: Albert Schulz
+Name: WeeRadio for NC (Free)
 
 Package: eu.xn117khdsh.ifile
 Version: 1.6.1-1
