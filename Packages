@@ -251,18 +251,38 @@ Author: TIGI Software
 Name: Filza File Manager (Cracked)
 
 Package: com.xn117khdsh.icleanerpro
+Version: 7.6.1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: apt, findutils, shell-cmds
+Depends: firmware (>= 4.0)
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
+Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
+Filename: ./debs/icleanerpro_7.6.1_cracked.deb
+Size: 5153596
+MD5sum: b59b5bdd99093e222d9d006017c16c5b
+SHA1: f5ae603d45fa0362ee1652893d492b94ef621293
+SHA256: 7a3098f5441bed0cc89e133961a37c48689c2ef9096ed4d60f998b30d4138cb0
+Section: Utilities
+Homepage: https://xn117khdsh.github.io/repo
+Description: The first real iOS system cleaner & optimizer
+Author: xn117khdsh
+Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.icleanerpro
+Name: iCleaner Pro Cracked
+
+Package: com.xn117khdsh.icleanerpro
 Version: 7.6.4
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Pre-Depends: apt, findutils, shell-cmds
 Depends: firmware (>= 4.0)
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
+Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
+Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
 Filename: ./debs/icleanerpro_7.6.4_regged.deb
-Size: 4747264
-MD5sum: 4d4530bc7791aa1fcd2a82d81a2eecac
-SHA1: 6c2ba0fcf8fe57e715459f328fc97eda704eaeb9
-SHA256: 6798aaebd61b520e2655fbdafcb8cc5d2bab3f1147f49811feccbfbc5f98f4e0
+Size: 4747008
+MD5sum: 921757ccb46d6dc0b5bf5a61b896c52a
+SHA1: feb6587625a453ed6de26df3ce56163703f7a241
+SHA256: 209a85cb4150cb94ea069e5a428b2b1679d6fbdeb2555c578b2a995e284a3249
 Section: Utilities
 Homepage: https://xn117khdsh.github.io/repo
 Description: The first real iOS system cleaner & optimizer
@@ -494,6 +514,22 @@ Author: A3Tweaks
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.apex
 Name: Apex Cracked (iOS 6)
 
+Package: vn.xn117khdsh.appdye
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Filename: ./debs/appdye_1.0.1.deb
+Size: 280750
+MD5sum: b44de6dd520e56404097d9687c6d51da
+SHA1: bcbd883816a42c22c00eeaf55e04f44c16700e0b
+SHA256: cff5a5058b79ebf1a057e9b5441ffa65dce4d968880c0b9d0303d7890931d94f
+Section: Tweaks
+Description: dye or tint blue iOS7 color to any color of your choice
+Author: Bailey Seymour
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appdyeDp
+Name: AppDye (iOS 7)
+
 Package: vn.xn117khdsh.appsync50plus
 Version: 2.2b
 Architecture: iphoneos-arm
@@ -584,6 +620,25 @@ Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.bitesms6
 Name: biteSMS Legacy (iOS 5, 6)
 
+Package: vn.xn117khdsh.ccquickpro
+Version: 1.4-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Installed-Size: 1015
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.cunstuck.ccquick, com.danyl.cccontrols
+Filename: ./debs/ccquickpro7.deb
+Size: 342358
+MD5sum: 4d2704c3dae371ef5a48954f5b0c1a5f
+SHA1: d12a4b8e99dbb204403064fd926d4bcd4b0cf8a6
+SHA256: 86c23b06b83258244adefb36f21910ee67e036884b2da58b923876d7bf293671
+Section: Tweaks
+Description: shortcuts & powerful options for Control Center
+Author: Cunstuck
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccquickproDp
+Icon: file:///Library/PreferenceBundles/CCQuick.bundle/CCQuickIcon@2x.png
+Name: CCQuick Pro (iOS 7)
+
 Package: vn.xn117khdsh.clutch
 Version: 2.0rc7
 Architecture: iphoneos-arm
@@ -616,6 +671,23 @@ Description: Cydia Download Manager and Extra Features!
 Author: julioverne
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.cydown
 Name: CyDown Legacy
+
+Package: vn.xn117khdsh.fiveicondock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.saurik.iphone.fid, com.gmoran.fiveicondock
+Filename: ./debs/fiveicondock7.deb
+Size: 3286
+MD5sum: d91b93620a17e3a0af771ac5afb0726f
+SHA1: bc393e2d7cdf53d18354e75e7dbb78ef14bb16bd
+SHA256: f6705728be7dab28b9bb0b138bfe77d0296e682f60ff536062086d3b428b58c4
+Section: Tweaks
+Description: Five Icon Dock for iOS7
+Author: fr0st
+Depiction: Five Icon Dock for iOS7
+Name: Five Icon Dock (iOS7)
 
 Package: vn.xn117khdsh.gameplayer
 Version: 3.4
@@ -667,6 +739,23 @@ Author: Guardian
 Icon: file:///Applications/iGameGuardian.app/pug_57.png
 Name: iGameGuardian
 
+Package: vn.xn117khdsh.libactivatorpatch
+Version: 1.8.3
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Installed-Size: 45
+Depends: libactivator (>= 1.8.3)
+Filename: ./debs/activatornoads.deb
+Size: 211306
+MD5sum: 8f19c93067a76157f00375557a81bfbb
+SHA1: 86c23cd48cbec5c6ee17fb568bf17bd65a74562e
+SHA256: 02aecf5b9c115f2e095504d6380de09dc2ec28a51e5f11dabb0dbda85e7ab785
+Section: Tweaks
+Description: Ad Removal Patch for Activator (Required v1.8.3 or newer).
+Author: Cydia.vn
+Depiction: Ad Removal Patch for Activator (Required v1.8.3 or newer).
+Name: Activator NoAds Patch
+
 Package: vn.xn117khdsh.mailenhancerpro2
 Version: 2.1-1
 Architecture: iphoneos-arm
@@ -699,6 +788,22 @@ Priority: Standard
 Description: The Oregon Trail hack for iOS. Including: 999,998 Coins & 9,999 Cash. Install game version 1.9.8 and create a new game first before installing this patch.
 Author: Appstore
 Name: The Oregon Trail Patch (Money Hack)
+
+Package: vn.xn117khdsh.quicklock2
+Version: 1.0-2
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Pre-Depends: firmware (>= 4.0)
+Filename: ./debs/quicklock2_1.0-2.deb
+Size: 14988
+MD5sum: 3ddaa5fd79920a0bb121c36955c331d1
+SHA1: e4982a465a14eaaa76880e98477ea48edce9c242
+SHA256: 1f7775413acc2b80d275f5f1b70587e6253ca60dc9ef7e917e8c72c66fa6f16c
+Section: Tweaks
+Description: Lock Screen quickly from SpringBoard by clicking on an icon.
+Author: Zotyo
+Depiction: Lock Screen quickly from SpringBoard by clicking on an icon.
+Name: QuickLock 2 (iOS 4-5)
 
 Package: vn.xn117khdsh.quicklock3
 Version: 1.0
@@ -736,6 +841,26 @@ Description: Just touch to lock your device! This package supports iOS 6 and iOS
 Author: deVbug
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=vn.xn117khdsh.quicklock46
 Name: QuickLock46 (iOS 6-7)
+
+Package: vn.xn117khdsh.safaridownloader
+Version: 2.1-1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Installed-Size: 640
+Pre-Depends: firmware (>= 3.0)
+Depends: gsmicon, mobilesubstrate, preferenceloader, co.cocoanuts.sandcastle (>> 2.0-1)
+Conflicts: net.howett.downloader, com.bigboss.patchsafari2 (<= 2.0.2587-1)
+Replaces: net.howett.downloader
+Filename: ./debs/safaridownloadmanager.deb
+Size: 210178
+MD5sum: 7a80f4a0bcda59b749f139e860306787
+SHA1: 7d6cb58d6ad4ebb5b01484131b3ea799fbd2cb80
+SHA256: 77d76fb7a43fec605e201028c0a81ecc9c18488f244d7c1b3539848e0872a828
+Section: Tweaks
+Description: A full download manager for Safari.
+Author: Dustin Howett <dustin@howett.net>
+Depiction: A full download manager for Safari. Compatible for iOS 3-6.
+Name: Safari Download Manager
 
 Package: vn.xn117khdsh.sbinfograbber
 Version: 1.1.5-1
