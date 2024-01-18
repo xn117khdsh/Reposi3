@@ -259,12 +259,11 @@ Depends: firmware (>= 4.0)
 Conflicts: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
 Replaces: org.altervista.exilecom.icleaner, com.exile90.icleanerpro, vn.gsm.icleanerprobeta
 Filename: ./debs/icleanerpro_7.6.1_cracked.deb
-Size: 5153596
-MD5sum: b59b5bdd99093e222d9d006017c16c5b
-SHA1: f5ae603d45fa0362ee1652893d492b94ef621293
-SHA256: 7a3098f5441bed0cc89e133961a37c48689c2ef9096ed4d60f998b30d4138cb0
+Size: 5153708
+MD5sum: a6561502cc848b5b53fc412b3759ebd9
+SHA1: 29698550293896fece36af87de0f8079ddd8aefb
+SHA256: ec397fc9b8432cd683ee92b9c70c5ca4a17d9c849e27cdab2e27dd4ddbb16e55
 Section: Utilities
-Homepage: https://xn117khdsh.github.io/repo
 Description: The first real iOS system cleaner & optimizer
 Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=com.xn117khdsh.icleanerpro
