@@ -425,6 +425,22 @@ Author: Pangu <axe@pangu.io>
 Depiction: http://cydia.saurik.com/info/io.pangu.xuanyuansword8/
 Name: Pangu 8.0-8.1 Untether
 
+Package: org.thebigboss.protube2
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware(>= 5.0), mobilesubstrate
+Filename: ./debs/protube2_1.1.3.deb
+Size: 276276
+MD5sum: 992e1387683c3198f2ec7c9d88ab37f8
+SHA1: 6c1b256f82b21cfac37b89603b0fb159b3028900
+SHA256: 1f8e9b562c295901c0be7cf6fa5834c723902b76ae168318690bb3d32949f9bf
+Section: Tweaks
+Description: power features for Google's YouTube App
+Author: Jonas Gessner <support@j-gessner.de>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protube2Dp
+Name: ProTube Extension for YouTube
+
 Package: org.xn117khdsh.auxo
 Version: 1.4-2
 Architecture: iphoneos-arm
@@ -847,14 +863,14 @@ Architecture: iphoneos-arm
 Maintainer: xn117khdsh
 Installed-Size: 640
 Pre-Depends: firmware (>= 3.0)
-Depends: gsmicon, mobilesubstrate, preferenceloader, co.cocoanuts.sandcastle (>> 2.0-1)
+Depends: mobilesubstrate, preferenceloader, co.cocoanuts.sandcastle (>> 2.0-1)
 Conflicts: net.howett.downloader, com.bigboss.patchsafari2 (<= 2.0.2587-1)
 Replaces: net.howett.downloader
 Filename: ./debs/safaridownloadmanager.deb
-Size: 210178
-MD5sum: 7a80f4a0bcda59b749f139e860306787
-SHA1: 7d6cb58d6ad4ebb5b01484131b3ea799fbd2cb80
-SHA256: 77d76fb7a43fec605e201028c0a81ecc9c18488f244d7c1b3539848e0872a828
+Size: 210172
+MD5sum: e3832303f16531c416ac29912d74986c
+SHA1: 1313c7dc78060d147241a17d8e935f7769d9df24
+SHA256: 39378aa352525524845db82d16058dc7aab11b514963cb1c7a2d35d67d758b4c
 Section: Tweaks
 Description: A full download manager for Safari.
 Author: Dustin Howett <dustin@howett.net>
