@@ -1,0 +1,23 @@
+<changelog>
+    <changes>
+        <version>1.1</version>
+        <change>Added full iPad support, fixed validation prompt issue.</change>
+        <version>1.2.1</version>
+        <change>-Added Close-All whitelist options.
+-Added single-input Close-All optn.
+-Added Close-All>go Home option.
+-Added no QS-to-Switcher option.
+-Added auto-display artwork option.
+-Added placeholder album artwork.
+-Improved iPad Quick Switcher.
+-Improved app pull-down detection.
+-Improved ‘media playing’ behavior.
+-Fixed FlipSwitch flashlight issues.
+-Fixed app-in-background issue.
+-Fixed boot-loop/crashing issue.</change>
+        <version>1.2.3</version>
+        <change>-Added Polus shortcut in Settings.
+-Improved iPad compatibility.
+-Fixed Flashlight shut-off issue.</change>
+    </changes>
+</changelog>
