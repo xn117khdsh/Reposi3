@@ -1,0 +1,21 @@
+<package>
+    <id>org.xn117khdsh.auxo</id>
+    <name>Auxo Legacy Edition Cracked</name>
+    <version>1.1k2</version>
+    <compatibility>
+        <firmware>
+            <miniOS>7.0</miniOS>
+            <maxiOS>10.0</maxiOS>
+            <otherVersions>unsupported</otherVersions>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate, preferenceloader, applist</dependencies>
+    <descriptionlist>
+        <description>A modern app switcher in control center.</description>
+    </descriptionlist>
+    <screenshots></screenshots>
+    <changelog>
+        <change>No changes.</change>
+    </changelog>
+    <links></links>
+</package>
