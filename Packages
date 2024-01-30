@@ -321,6 +321,37 @@ Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+. Old ver
 Author: TIGI Software
 Name: Filza File Manager (Cracked)
 
+Package: com.xn117khdsh.gameplayer
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: Maocai Luo <luomao2000@tom.com>
+Installed-Size: 2800
+Pre-Depends: firmware (>= 4.3), mobilesubstrate
+Filename: ./debs/gameplayer_1.5.4.deb
+Size: 740936
+MD5sum: d0fc13a89587addf5806e18f83861ecc
+SHA1: 4a061a0bda2d8be955bf6d1988d94e74fefed8b1
+SHA256: d27b82aa86ab510c919768046aceea90762d367ed9fd1714c1cc71a7da7e9548
+Section: utils
+Priority: optional
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. Version 1.5.4 is for iOS 4.3-7 users. Version 3.4 is for iOS 6-9 users.
+Name: GamePlayer
+
+Package: com.xn117khdsh.gameplayer
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: Maocai Luo <luomao2000@tom.com>
+Pre-Depends: firmware (>= 4.3), mobilesubstrate
+Filename: ./debs/gameplayer_3.4.deb
+Size: 740920
+MD5sum: 2027de9d47568debb4972738203f5c21
+SHA1: ba72abb75f9b616a95c42d05471d5fc7bbd3d394
+SHA256: 913fb411f33d8d12f0b431427438e1452da01cbda52180cafe25166218ea3b0e
+Section: utils
+Priority: optional
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. Version 1.5.4 is for iOS 4.3-7 users. Version 3.4 is for iOS 6-9 users.
+Name: GamePlayer
+
 Package: com.xn117khdsh.icleanerpro
 Version: 7.6.4
 Architecture: iphoneos-arm
@@ -805,42 +836,6 @@ Description: Five Icon Dock for iOS7
 Author: fr0st
 Depiction: Five Icon Dock for iOS7
 Name: Five Icon Dock (iOS7)
-
-Package: vn.xn117khdsh.gameplayer
-Version: 1.5.4 (iOS 4.3-7)
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 4.3), firmware (<< 8.0), mobilesubstrate
-Conflicts: com.duowan.gameplayer
-Filename: ./debs/gameplayer_1.5.4.deb
-Size: 740974
-MD5sum: 3ecd477009045d4f3cf7fb544693eb85
-SHA1: 0f886b5220053bf680792da5c46c26b6b704c608
-SHA256: 30bbcbd17f6dfcc6cd7022b8d01e98d43c39e9cc7934b8ea2d10a49ad7ec0af3
-Section: Utilities
-Priority: optional
-Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 4.3.x, 5.x, 6.x and 7.x are supported.
-Author: Maocai Luo
-Icon: file:///Applications/GamePlayer.app/icon-57.png
-Name: GamePlayer
-
-Package: vn.xn117khdsh.gameplayer
-Version: 3.4 (iOS 6-9)
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 6.0), firmware (<< 10.0), mobilesubstrate
-Conflicts: com.duowan.gameplayer
-Filename: ./debs/gameplayer_3.4.deb
-Size: 1504262
-MD5sum: 4a676e17be0fd7b31a17e51f06941c75
-SHA1: aaf5de574dfdd9e1aea9649c31df2b75e272555d
-SHA256: bcd72ca2f6a62651a142886b728eb45cd66eb8751e1c0197839d4b5363dd4416
-Section: Utilities
-Priority: optional
-Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x, 8.x and 9.x are supported.
-Author: Maocai Luo
-Icon: file:///Applications/GamePlayer.app/icon-57.png
-Name: GamePlayer
 
 Package: vn.xn117khdsh.iap
 Version: 0.8-1
