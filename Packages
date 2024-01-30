@@ -189,6 +189,63 @@ Description: Bluetooth OBEX and WiFi(P2P supported) File Transfer, AirDrop for y
 Author: xn117khdsh
 Name: AirBlue Sharing (iOS 7-)
 
+Package: com.xn117khdsh.auxo2
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
+Filename: ./debs/auxo2_1.1.deb
+Size: 550580
+MD5sum: f78121e84174b701ae2b02e51a01648e
+SHA1: b9d7624bd4f099019b1fc94c21e23b2c3c487ed9
+SHA256: 539892b9a1436ef6cbc3385ceb8160a266c1f244922adef6469b6257ecf35605
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Description: A fantasic re-imagined task switcher!
+Author: A3tweaks <auxo2@a3tweaks.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
+Name: Auxo 2 (iOS 7)
+
+Package: com.xn117khdsh.auxo2
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
+Filename: ./debs/auxo2_1.2.1.deb
+Size: 598500
+MD5sum: 029d5c43d0056a02c277e4adb0daa9dc
+SHA1: 51c2e71359f43b295fc5de8ba1c59cb9cc1eba8c
+SHA256: 84ad41cde386a3893e8ede651ff20006e476d1c01bee91b96905517b4f91ac4a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Description: A fantasic re-imagined task switcher!
+Author: A3tweaks <auxo2@a3tweaks.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
+Name: Auxo 2 (iOS 7)
+
+Package: com.xn117khdsh.auxo2
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
+Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
+Filename: ./debs/auxo2_1.2.3.deb
+Size: 862222
+MD5sum: 2a7257a275ad40d3bb63cd8ff12f16c4
+SHA1: 003f5a23c7517553a3bbd3ed92967544c70316ad
+SHA256: 23b94ec7b48ad73586c0753007e187eed1c26c64dc9593a7cebd37955b32e9fb
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Description: A fantasic re-imagined task switcher!
+Author: A3tweaks <auxo2@a3tweaks.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=auxo2Dp
+Icon: file:///Library/PreferenceBundles/UminoPreferences.bundle/Auxo2@2x.png
+Name: Auxo 2 (iOS 7)
+
 Package: com.xn117khdsh.deezelife
 Version: 0.2-1
 Architecture: iphoneos-arm
@@ -504,57 +561,6 @@ Author: A3Tweaks
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo-le
 Name: Auxo Legacy Edition Cracked
 
-Package: org.xn117khdsh.auxo2
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
-Filename: ./debs/auxo2_1.1.deb
-Size: 550524
-MD5sum: 61eb085a65dfeb5be127228e981f06bf
-SHA1: 8a54b79f41d6cc5dda8b14da7654bf5f301cc00a
-SHA256: 091a747469e7eaae54803fe0ba11a1de2cdce26422896f8ff0423881834471ae
-Section: Tweaks
-Description: A fantasic re-imagined task switcher!
-Author: A3tweaks <auxo2@a3tweaks.com>
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo2
-Name: Auxo 2 Cracked (iOS 7)
-
-Package: org.xn117khdsh.auxo2
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
-Filename: ./debs/auxo2_1.2.1.deb
-Size: 598310
-MD5sum: 81138396a20a8dc1dfb77f824acb8e7f
-SHA1: 7cf423b69b02e3a4e70b1cafd63ae9b3bdea1e75
-SHA256: 9823c2c2c3c98b3a1e606d1e3d07a742abb1fe29f1221e585518a0e6224fbf0e
-Section: Tweaks
-Description: A fantasic re-imagined task switcher!
-Author: A3tweaks <auxo2@a3tweaks.com>
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo2
-Name: Auxo 2 Cracked (iOS 7)
-
-Package: org.xn117khdsh.auxo2
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), applist
-Conflicts: com.danyl.cccontrols (<= 1.0.2), kr.slak.cctoggles (<< 0.1-18), org.thebigboss.vertex
-Filename: ./debs/auxo2_1.2.3.deb
-Size: 862164
-MD5sum: 65700e98bd3cb137c68b9ba2e0f12118
-SHA1: fff05c44f5e8d059e5eb326979cd64f3d5d81acd
-SHA256: d8d1a40bbecfa50b603b5ca5bde44882931842093d89baa70ef58033425e5ea2
-Section: Tweaks
-Description: A fantasic re-imagined task switcher!
-Author: A3tweaks <auxo2@a3tweaks.com>
-Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo2
-Name: Auxo 2 Cracked (iOS 7)
-
 Package: ru.anonz.jigtyhack
 Version: 0.0.1-2
 Architecture: iphoneos-arm
@@ -801,16 +807,34 @@ Depiction: Five Icon Dock for iOS7
 Name: Five Icon Dock (iOS7)
 
 Package: vn.xn117khdsh.gameplayer
-Version: 3.4
+Version: 1.5.4 (iOS 4.3-7)
 Architecture: iphoneos-arm
 Maintainer: xn117khdsh
-Depends: firmware (>= 6.0), firmware (<< 10.0)
+Depends: firmware (>= 4.3), firmware (<< 8.0), mobilesubstrate
 Conflicts: com.duowan.gameplayer
-Filename: ./debs/gameplayer.deb
-Size: 1504354
-MD5sum: 1d38b6c21ac0d610fd9a306e3575b5de
-SHA1: dbc255b0af5f70d2db7991d6c6ba62d44f453ecc
-SHA256: 81b33e04f0e8c525701abf96cc1c2b8f100d326ded68fa343015e6c18e9b510b
+Filename: ./debs/gameplayer_1.5.4.deb
+Size: 740974
+MD5sum: 3ecd477009045d4f3cf7fb544693eb85
+SHA1: 0f886b5220053bf680792da5c46c26b6b704c608
+SHA256: 30bbcbd17f6dfcc6cd7022b8d01e98d43c39e9cc7934b8ea2d10a49ad7ec0af3
+Section: Utilities
+Priority: optional
+Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 4.3.x, 5.x, 6.x and 7.x are supported.
+Author: Maocai Luo
+Icon: file:///Applications/GamePlayer.app/icon-57.png
+Name: GamePlayer
+
+Package: vn.xn117khdsh.gameplayer
+Version: 3.4 (iOS 6-9)
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware (>= 6.0), firmware (<< 10.0), mobilesubstrate
+Conflicts: com.duowan.gameplayer
+Filename: ./debs/gameplayer_3.4.deb
+Size: 1504262
+MD5sum: 4a676e17be0fd7b31a17e51f06941c75
+SHA1: aaf5de574dfdd9e1aea9649c31df2b75e272555d
+SHA256: bcd72ca2f6a62651a142886b728eb45cd66eb8751e1c0197839d4b5363dd4416
 Section: Utilities
 Priority: optional
 Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. iOS 6.x, 7.x, 8.x and 9.x are supported.
