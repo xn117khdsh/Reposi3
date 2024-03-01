@@ -60,15 +60,15 @@ Maintainer: Linus Yang
 Depends: mobilesubstrate
 Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
 Provides: appsync
-Filename: ./debs/appsyncnew.deb
-Size: 6424
-MD5sum: eee3987d56695951f723896bff9fdaa8
-SHA1: edc31286b91ed3f0d35971974e26a5dba079a08e
-SHA256: 91f8faa75993e4e2f0e6ddc00da8ce5d722468ddde584bcac1edf75a167df655
+Filename: ./debs/appsyncnew_1.4.deb
+Size: 6432
+MD5sum: fa30e5d60d803c53478d7cbc8597f3ce
+SHA1: b2eb4f6d25823ea98a69b58a68c5cdf55b408195
+SHA256: cbc69b1c2ce8323eec95e941178ec5afb9f2151286beb07b8bb82fdac4c5f73d
 Section: Tweaks
 Description: bypass signature check of installd
 Author: Linus Yang
-Name: AppSync New
+Name: AppSync New (iOS 6-12)
 
 Package: com.linusyang.ytbnoad
 Version: 0.1
@@ -325,13 +325,12 @@ Package: com.xn117khdsh.gameplayer
 Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: Maocai Luo <luomao2000@tom.com>
-Installed-Size: 2800
 Pre-Depends: firmware (>= 4.3), mobilesubstrate
-Filename: ./debs/gameplayer_1.5.4.deb
-Size: 740936
-MD5sum: d0fc13a89587addf5806e18f83861ecc
-SHA1: 4a061a0bda2d8be955bf6d1988d94e74fefed8b1
-SHA256: d27b82aa86ab510c919768046aceea90762d367ed9fd1714c1cc71a7da7e9548
+Filename: ./debs/gameplayer_3.4.deb
+Size: 740920
+MD5sum: 2027de9d47568debb4972738203f5c21
+SHA1: ba72abb75f9b616a95c42d05471d5fc7bbd3d394
+SHA256: 913fb411f33d8d12f0b431427438e1452da01cbda52180cafe25166218ea3b0e
 Section: utils
 Priority: optional
 Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. Version 1.5.4 is for iOS 4.3-7 users. Version 3.4 is for iOS 6-9 users.
@@ -341,12 +340,13 @@ Package: com.xn117khdsh.gameplayer
 Version: 1.5.4
 Architecture: iphoneos-arm
 Maintainer: Maocai Luo <luomao2000@tom.com>
+Installed-Size: 2800
 Pre-Depends: firmware (>= 4.3), mobilesubstrate
-Filename: ./debs/gameplayer_3.4.deb
-Size: 740920
-MD5sum: 2027de9d47568debb4972738203f5c21
-SHA1: ba72abb75f9b616a95c42d05471d5fc7bbd3d394
-SHA256: 913fb411f33d8d12f0b431427438e1452da01cbda52180cafe25166218ea3b0e
+Filename: ./debs/gameplayer_1.5.4.deb
+Size: 740936
+MD5sum: d0fc13a89587addf5806e18f83861ecc
+SHA1: 4a061a0bda2d8be955bf6d1988d94e74fefed8b1
+SHA256: d27b82aa86ab510c919768046aceea90762d367ed9fd1714c1cc71a7da7e9548
 Section: utils
 Priority: optional
 Description: GamePlayer is a game cheating tool. It can easily modify HP, MP, money and so on. Version 1.5.4 is for iOS 4.3-7 users. Version 3.4 is for iOS 6-9 users.
@@ -541,22 +541,6 @@ Author: Fr0st
 Depiction: MobileTerminal with iOS 7 + 4” screen support
 Name: MobileTerminal (iOS7)
 
-Package: org.thebigboss.protube2
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: xn117khdsh
-Depends: firmware(>= 5.0), mobilesubstrate
-Filename: ./debs/protube2_1.1.3.deb
-Size: 276276
-MD5sum: 992e1387683c3198f2ec7c9d88ab37f8
-SHA1: 6c1b256f82b21cfac37b89603b0fb159b3028900
-SHA256: 1f8e9b562c295901c0be7cf6fa5834c723902b76ae168318690bb3d32949f9bf
-Section: Tweaks
-Description: power features for Google's YouTube App
-Author: Jonas Gessner <support@j-gessner.de>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protube2Dp
-Name: ProTube Extension for YouTube
-
 Package: org.xn117khdsh.auxo
 Version: 1.4-2
 Architecture: iphoneos-arm
@@ -626,6 +610,24 @@ Author: xn117khdsh
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=us.hackphone.ifile
 Icon: file:///Applications/iFile.app/Icon.png
 Name: iFile Cracked (iOS 7-Vietnamese)
+
+Package: us.scw.afctwoadd
+Version: 1.01
+Architecture: iphoneos-arm
+Maintainer: NetMage <scw@scw.us>
+Depends: com.ericasadun.utilities
+Filename: ./debs/us.scw.afctwoadd_1.01_iphoneos-arm.deb
+Size: 1136
+MD5sum: 624641d8ce8ee0c4035faf1997bf5df6
+SHA1: 047c1a67a69370d4104d198dbe90637b5adf6349
+SHA256: cf4674a7f07127b1bde299672e5589a7fc7d3975bfbdc61cca346edb9426779a
+Section: System
+Homepage: http://modmyi.com/info/afctwoadd.php
+Description: Package to add afc2 service for USB browsing of filesystem. Adds the afc2 service and reboots the phone, to fix issues for folks unable to use USB browsers (like iPhoneBrowser) with blackra1n.
+Author: NetMage <scw@scw.us>
+Depiction: http://modmyi.com/info/afctwoadd.d.php
+Name: afc2add
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: vn.xn117khdsh.altkeyboard
 Version: 1.0.0
@@ -918,6 +920,23 @@ Priority: Standard
 Description: The Oregon Trail hack for iOS. Including: 999,998 Coins & 9,999 Cash. Install game version 1.9.8 and create a new game first before installing this patch.
 Author: Appstore
 Name: The Oregon Trail Patch (Money Hack)
+
+Package: vn.xn117khdsh.protube2
+Version: 2.2.3
+Architecture: iphoneos-arm
+Maintainer: xn117khdsh
+Depends: firmware(>= 5.0), mobilesubstrate(>= 0.9.5000), preferenceloader
+Filename: ./debs/protube2_2.2.3_yt.deb
+Size: 2688956
+MD5sum: 7934f3db8a96638fd192e0c44af67642
+SHA1: d4e772d1b465ddf1c1c62acde717c289308a518c
+SHA256: 840c45f84f7d56435e9d7dc9ac0c133be2786c4b177a8056a79f35baf035be79
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protube2Dp
+Description: adds power features to Google's YouTube App
+Author: Jonas Gessner
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=protube2Dp
+Name: ProTube Extension for YouTube
 
 Package: vn.xn117khdsh.quicklock2
 Version: 1.0-2
