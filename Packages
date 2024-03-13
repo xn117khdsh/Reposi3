@@ -576,6 +576,29 @@ Author: A3Tweaks
 Depiction: https://xn117khdsh.github.io/repo/depictions/?p=org.xn117khdsh.auxo-le
 Name: Auxo Legacy Edition Cracked
 
+Package: original.siri
+Version: 5.4.0-0finalRev2
+Architecture: iphoneos-arm
+Maintainer: gdimait <http://siriport.ru/forum/user/1-gdimait/>
+Pre-Depends: firmware (>= 5.1)
+Depends: preferenceloader, mobilesubstrate, com.ericasadun.utilities
+Conflicts: com.chpwn.spire, siri.by.siriport.ru, russian.siri.by.siriport.ru.511, gsc.ipad, original.siri.by.siriport.ru.511
+Filename: ./debs/SiriPort_Original_iPhone_iPod_repo_siriport_ru_5_4_0finalRev2.deb
+Size: 99551876
+MD5sum: cdca9fba89058391b9e83513e0145b7b
+SHA1: e0e573e6d2da4576c8837946c46e7630f8a4735e
+SHA256: dbc01a914768a4db87b996994431f2977756abc471321c8e573f9e58a7bf60cf
+Section: Siri
+Priority: standard
+Homepage: http://siriport.ru
+Description: Best Original Siri iOS 5.1.X
+Tag: purpose::extension
+Author: Dmitriy Garitskiy <http://siriport.ru/>
+Depiction: http://aptinfo.siriport.ru/repo_files/pages/siriport_for_5_1.html
+Icon: file:///var/siriport.ru/icon64.png
+Name: SiriPort (Original)
+Sponsor: SiriPort.Ru <http://siriport.ru/forum/user/1-gdimait/>
+
 Package: ru.anonz.jigtyhack
 Version: 0.0.1-2
 Architecture: iphoneos-arm
